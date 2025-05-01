@@ -1,4 +1,4 @@
 # Calculator
 Calculator for Odin Project
 
-Link: https://ieatburnttoasts.github.io/calculator/
+Link: https://warm-oats.github.io/calculator/
